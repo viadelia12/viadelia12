@@ -2,7 +2,7 @@
 
 I am currently graduated from Informatics Major at UPN "Veteran" Yogyakarta. I'm interested in frontend development and data analysis.
 
-🌱 I’m currently learning Frontend Development using Laravel, Next.js
+🌱 I’m currently learning Frontend Development using Laravel, Next.js <br/>
 ✨ Being an lab assistant in Informatics UPNVY
 
 ## 🌐 Socials:
